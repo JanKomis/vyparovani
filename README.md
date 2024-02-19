@@ -19,6 +19,8 @@ Další programy z této práce:</p>
 # Vytvořeno pomocí
 
 <p align="left">
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png" width="36" height="36" alt="Jupyter" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="36" alt="Python" /></a>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png" height="36" alt="Jupyter" /></a>
+<a href="http://www.coolprop.org" target="_blank" rel="noreferrer"><img src="http://www.coolprop.org/_static/CoolPropLogo.png" height="36" alt="CoolProp" /></a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" height="36"" alt="Numpy" /></a>
 </p>
